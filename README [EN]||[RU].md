@@ -84,6 +84,8 @@ To ensure that your file runs, please check the installation of the Tkinter libr
    ```sh
    sudo apt-get install python3-tk
    ```
+### May be supplemented
+
 ### [RU]
 # Python-калькулятор
 Этот код представляет собой простой калькулятор на Python с использованием Tkinter.
@@ -170,3 +172,4 @@ To ensure that your file runs, please check the installation of the Tkinter libr
    ```sh
    sudo apt-get install python3-tk
    ```
+### Возможно будет дополнятся
