@@ -84,6 +84,22 @@ To ensure that your file runs, please check the installation of the Tkinter libr
    ```sh
    sudo apt-get install python3-tk
    ```
+   
+## Renaming the Application
+
+To rename the application, follow these steps:
+
+1. Open the file `Python Calculator.py`.
+2. Find the line containing `window.title("Calculator")`.
+3. Change the text `"Calculator"` to the desired name of your application.
+
+Example:
+```python
+window.title("My Custom Calculator")
+```
+
+After this, your application will display the new name in the window title.
+
 ### May be supplemented
 
 ### [RU]
@@ -172,4 +188,20 @@ To ensure that your file runs, please check the installation of the Tkinter libr
    ```sh
    sudo apt-get install python3-tk
    ```
+
+## Переименование приложения
+
+Чтобы переименовать приложение, выполните следующие шаги:
+
+1. Откройте файл `Python Calculator.py`.
+2. Найдите строку, содержащую `window.title("Calculator")`.
+3. Измените текст `"Calculator"` на желаемое имя вашего приложения.
+
+Пример:
+```python
+window.title("My Custom Calculator")
+```
+
+После этого ваше приложение будет отображать новое имя в заголовке окна.
+
 ### Возможно будет дополнятся
