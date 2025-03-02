@@ -64,3 +64,22 @@ This code is a simple Python calculator using Tkinter.
    - PyCharm will run the file, and you will see the calculator window.
 
 By following these steps, you can run your `Python Calculator.py` file in both Visual Studio Code and PyCharm.
+
+### IMPORTANT
+
+To ensure that your file runs, please check the installation of the Tkinter library. Here is an example of how to do this:
+
+1. **Verify Tkinter Installation**:
+
+   Open a terminal and run the following command:
+   ```sh
+   python -m tkinter
+   ```
+   If Tkinter is installed, a window with a test interface will open. If not, follow the next step to install it.
+
+2. **Install Tkinter**:
+
+   On Windows and macOS, Tkinter is usually installed with Python. On Linux, you may need to install it separately. For Ubuntu, run:
+   ```sh
+   sudo apt-get install python3-tk
+   ```
