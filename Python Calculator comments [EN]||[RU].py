@@ -74,7 +74,7 @@ for (text, row, col) in operations:
 # Run the main event loop
 window.mainloop()
 
-[Ru]
+[RU]
 import tkinter as tk
 
 # Создаем главное окно
